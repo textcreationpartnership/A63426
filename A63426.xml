@@ -1,0 +1,287 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and perfect copy of the whole disputation at the Savoy that was managed by the episcopal divines, as opponents, to prove that there is nothing sinful in the liturgy. Published to make intelligible the fragment already published by the Lord Bishop od Worcester, under the hands of Dr. Pierson, and Dr. Guning; and so much of his Lordships book against Mr. Baxter, as concerneth that disputation.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63426</idno>
+            <idno type="STC">Wing T2525A</idno>
+            <idno type="STC">ESTC R219369</idno>
+            <idno type="EEBO-CITATION">99830847</idno>
+            <idno type="PROQUEST">99830847</idno>
+            <idno type="VID">35301</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63426)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35301)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2083:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and perfect copy of the whole disputation at the Savoy that was managed by the episcopal divines, as opponents, to prove that there is nothing sinful in the liturgy. Published to make intelligible the fragment already published by the Lord Bishop od Worcester, under the hands of Dr. Pierson, and Dr. Guning; and so much of his Lordships book against Mr. Baxter, as concerneth that disputation.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year 1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Liturgy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35301:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 19 -->
+            <p>A True and Perfect Copy of the Whole DISPUTATION AT THE SAVOY, That was managed by the Epiſcopal Divines, AS OPPONENTS, To prove that there is nothing ſinful in the LITURGY.</p>
+            <p>Publiſhed to make intelligible the Fragment already publiſhed by the Lord Biſhop of <hi>Worceſter,</hi> under the hands of Dr. <hi>Pierſon,</hi> and Dr. <hi>Guning;</hi> and ſo much of his Lordſhips Book againſt Mr. <hi>Baxter,</hi> as concerneth that Diſputation.</p>
+            <p>Printed in the year 1662.</p>
+            <pb facs="tcp:35301:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 20 -->
+            <pb facs="tcp:35301:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 20 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:35301:3"/>
+            <!-- PDF PAGE 21 -->
+            <pb n="1" facs="tcp:35301:3"/>
+            <!-- PDF PAGE 21 -->
+            <head>A True and perfect Copy of the Whole Diſputa<g ref="char:EOLhyphen"/>tion at the <hi>Savoy,</hi> that was managed by the Epiſcopal Divines, as Opponents, to prove that there is nothing ſinful in the Liturgy.</head>
+            <p>
+               <label>Oppon.</label>
+               <lb/>
+               <hi>MY Aſſertion is,</hi> Nothing contained in the Liturgy is ſinful.</p>
+            <p>This general Aſſertion I am ready to make good in all particulars, in which our Brethren ſhall think fit to charge the Liturgy with ſinfulneſs.</p>
+            <p>And becauſe our Brethren have as yet by way of Diſputa<g ref="char:EOLhyphen"/>tion, charged no other part of it with the imputation of ſin<g ref="char:EOLhyphen"/>fulneſs, but that which concerneth kneeling at the Commu<g ref="char:EOLhyphen"/>nion; therefore my firſt Aſſertion as to that particular is this,</p>
+            <p>The Command contained in the Liturgy concerning kneel<g ref="char:EOLhyphen"/>ing at the Communion, is not ſinful.</p>
+            <p>This Truth I am ready to prove by ſeveral Arguments.</p>
+            <p>Firſt, This only command <hi>[The Miniſter ſhall deliver the Communion to the people in their hands kneeling]</hi> is not ſinful.</p>
+            <p>The Command contained in the Liturgy concerning kneel<g ref="char:EOLhyphen"/>ing at the Communion is this only command [the Miniſter, &amp;c.]</p>
+            <p>
+               <hi>Ergo,</hi>
+               <lb/>
+The Command contained in the Liturgy, concerning kneeling at the Communion, is not ſinful.</p>
+            <p>
+               <label>Reſp.</label> 
+               <hi>Neg. Major.</hi>
+            </p>
+            <p>
+               <label>Op.</label> Prob. Major.</p>
+            <p>
+               <pb n="2" facs="tcp:35301:4"/>
+               <!-- PDF PAGE 22 -->
+That Command which commandeth only an Act in it ſelf lawful, is not ſinful.</p>
+            <p>This only Command [the <hi>Miniſter</hi> ſhall deliver the Com<g ref="char:EOLhyphen"/>munion to the people in their hands kneeling] commandeth only an Act in it ſelf lawful; <hi>Ergo,</hi>
+            </p>
+            <p>This only command <hi>[the Miniſter ſhall deliver the Communion to the people in their hands kneeling]</hi> is not ſinful.</p>
+            <p>
+               <label>Reſp.</label> 
+               <hi>Negatur Major &amp; Minor.</hi>
+            </p>
+            <p>
+               <label>Op.</label> Prob. Major.</p>
+            <p>That Command which commands an Act in it ſelf lawful, and no other Act, or Circumſtance unlawful, is not ſinful.</p>
+            <p>That Command which commands onely an Act in it ſelf lawful, commands an Act in it ſelf lawful, and no other Act or Circumſtance unlawful: <hi>Ergo,</hi>
+               <lb/>
+That Command which commandeth only an Act in it ſelf lawful, is not ſinful.</p>
+            <p>
+               <label>Reſp.</label>
+               <list>
+                  <item>
+                     <hi>1. We deny the</hi> Major; <hi>and (for brevity) give a double reaſon of our denial; one is, becauſe that may be a ſin</hi> per Accidens, <hi>which is not ſo</hi> in it ſelf, <hi>and may be</hi> unlawfully commanded, <hi>though that Accident be not in the Command.</hi>
+                     <list>
+                        <item>
+                           <hi>Another is, that it may be commanded</hi> under an un<g ref="char:EOLhyphen"/>juſt penalty.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>2. We deny the</hi> Minor, <hi>for both the ſame reaſons.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <label>Op.</label> Prob. Minor.</p>
+            <p>The delivery of the Communion to perſons kneeling is an Act in it ſelf lawful.</p>
+            <p>This only Command [the <hi>Miniſter</hi> ſhall deliver the Com<g ref="char:EOLhyphen"/>munion to the people in their hands kneeling] commandeth only the deliver of the Communion to perſons kneeling.</p>
+            <p>
+               <hi>Ergo<g ref="char:punc">▪</g>
+               </hi> This only Command [the Miniſter, &amp;c.] command<g ref="char:EOLhyphen"/>eth onely an Act in it ſelf lawful.</p>
+            <p>
+               <label>Reſp.</label> 
+               <hi>We diſtinguiſh of</hi> Delivering to perſons kneeling
+<pb n="3" facs="tcp:35301:4"/>
+               <!-- PDF PAGE 22 -->
+               <hi>it ſignifieth either</hi> excluſively (<hi>to</hi> thoſe <hi>and</hi> no other) <hi>or</hi> not excluſively <hi>to other. In the firſt ſenſe we deny the</hi> Major, <hi>in the ſecond ſenſe we deny the</hi> Minor.</p>
+            <p>
+               <label>Op.</label> You deny both our Propoſitions, for two Reaſons, both the ſame; wee make good both our Propoſitions, notwith<g ref="char:EOLhyphen"/>ſtanding both your Reaſons.</p>
+            <p>The <hi>Major firſt.</hi>
+            </p>
+            <p>That Command which commandeth an Act in it ſelf law<g ref="char:EOLhyphen"/>ful, and no other Act, whereby any unjuſt penalty is injoyn<g ref="char:EOLhyphen"/>ed, nor any Circumſtance whence directly, or <hi>per Accidens</hi> any ſin is conſequent, which the Commander ought to pro<g ref="char:EOLhyphen"/>vide againſt, is not ſinful.</p>
+            <p>That Command which commandeth an Act in it ſelf lawful, and no other Act, or Circumſtance unlawful, com<g ref="char:EOLhyphen"/>mandeth an Act in it ſelf lawful, and no other Act, where<g ref="char:EOLhyphen"/>by any unjuſt penalty is injoyned, nor any Circumſtance, whence directly or <hi>per Accidens</hi> any ſin is conſequent, which the Commander ought to provide againſt.</p>
+            <p>
+               <hi>Ergo,</hi>
+               <lb/>
+That Command, which commands an Act in it ſelf lawful, and no other Act or Circumſtance unlawful, is not ſinful.</p>
+            <p>
+               <label>Reſp.</label>
+               <hi>1. The Propoſition denied is not in the Con<g ref="char:EOLhyphen"/>cluſion.</hi>
+            </p>
+            <p>
+               <hi>The</hi> Major <hi>is denied, becauſe</hi> the firſt Act commanded <hi>may be</hi> per accidens <hi>unlawful, and be commanded by an unjuſt penalty, though</hi> no other Act <hi>or</hi> Circumſtance commanded, <hi>be ſuch.</hi>
+            </p>
+            <p>
+               <label>Op.</label> The <hi>Minor</hi> next.</p>
+            <p>That Command, which commandeth an Act in it ſelf lawful, and no other Act whereby any unjust penalty is injoyned, nor any Circumſtance whence directly, or <hi>per Ac<g ref="char:EOLhyphen"/>cidens</hi> any ſin is conſequent, which the Commander ought to provide againſt; commands an Act in it ſelf lawful, and
+<pb n="4" facs="tcp:35301:5"/>
+               <!-- PDF PAGE 23 -->no other Act or Circumſtance unlawful.</p>
+            <p>That Command, which commands onely an Act in it ſelf lawful, commandeth an Act in it ſelf lawful, and no other Act whereby any unjuſt penalty is injoyned, nor any Circum<g ref="char:EOLhyphen"/>ſtance whence directly, or <hi>per Accidens</hi> any ſin is conſe<g ref="char:EOLhyphen"/>quent, which the Commander ought to provide against.</p>
+            <p>
+               <hi>Ergo,</hi>
+               <lb/>
+That Command, which commands onely an Act in it ſelf lawful, commands an Act in it ſelf lawful, and no other Act or Circumſtance unlawful.</p>
+            <p>
+               <label>Op.</label> Wee prove our <hi>Major,</hi> notwithſtanding your Reaſon alledged.</p>
+            <p>That Command which hath in it all things requiſite to the lawfulneſs of a Command, and particularly cannot bee guilty of commanding an Act <hi>per Accidens</hi> unlawful, nor of commanding an Act under an unjuſt penalty, is not ſinful, notwithſtanding your Reaſon alledged.</p>
+            <p>That Command, which commandeth an Act in it ſelf lawful, and no other Act, whereby any unjuſt penalty is injoyned, nor any Circumſtance whence directly or <hi>per Accidens</hi> any ſin is conſequent, which the Commander ought to provide againſt, hath in it all things requiſite to the lawfulneſs of a command, and particularly cannot bee guilty of commanding an Act <hi>per Accidens</hi> unlawful, nor of commanding an Act under an unjuſt penalty.</p>
+            <p>
+               <hi>Ergo,</hi>
+               <lb/>
+That Command, which commandeth an Act in it ſelf lawful, and no other Act, whereby any unjuſt penalty is injoyned, nor any Circumstance whence directly, or <hi>per Ac<g ref="char:EOLhyphen"/>cidens</hi> any ſin is conſequent, which the Commander ought to provide againſt, is not ſinful, notwithstanding your Rea<g ref="char:EOLhyphen"/>ſon alledged.</p>
+            <p>
+               <label>Reſp.</label> The <hi>Minor</hi> is denied upon the ſame Reaſons, which you do nothing to remove; ſuch a Command
+<pb n="5" facs="tcp:35301:5"/>
+               <!-- PDF PAGE 23 -->hath not in it all things requiſite to the lawfulneſs of a Command, becauſe though <hi>no other Act</hi> be command<g ref="char:EOLhyphen"/>ed, whereby an unjuſt penalty is injoyned, yet ſtill the <hi>firſt Act</hi> may be commanded <hi>ſub poena injuſtâ</hi> And though <hi>no other Act,</hi> or <hi>Circumſtance</hi> be <hi>commanded,</hi> that is a ſin <hi>per Accidens,</hi>yet <hi>the firſt Act it ſelf command<g ref="char:EOLhyphen"/>ed,</hi> may be a ſin <hi>per Accidens.</hi>
+            </p>
+            <p>
+               <label>Op.</label> Either our <hi>Minor</hi> is true, notwithſtanding your Reaſon, or elſe the firſt Act may bee a <hi>Command com<g ref="char:EOLhyphen"/>manding</hi> an unjuſt puniſhment, and be an Act lawful, or the firſt Act it ſelf being lawful in it ſelf, and all Cir<g ref="char:EOLhyphen"/>cumſtances, may yet be a ſin <hi>per Accidens,</hi> againſt which the Commander ought to provide.</p>
+            <p>
+               <hi>Poſterius utrumque falſum,</hi> both the latter Members are falſe.</p>
+            <p>
+               <hi>Ergo prius verum,</hi> therefore the firſt is true.</p>
+            <p>
+               <label>Reſp.</label>
+               <list>
+                  <item>
+                     <hi>1.</hi> Neg. Major; <hi>Becauſe 1. The ſubject is changed; you were to have ſpoken of the firſt</hi> Act com<g ref="char:EOLhyphen"/>manded, <hi>and you ſpeak of the</hi> firſt Act commanding, <hi>in the firſt Member; you ſhould have ſaid [elſe the firſt Act may be</hi> commanded ſub poenâ injuſtâ, and yet be in it ſelf lawful <hi>which is true.</hi>
+                  </item>
+                  <item>
+                     <hi>2. Becauſe in the ſecond Member, where you ſhould have ſpoken onely of the</hi> commanded Circumſtances <hi>of the Act, you now ſpeak of</hi> all its Circumſtances, <hi>whe<g ref="char:EOLhyphen"/>ther</hi> commanded, <hi>or not.</hi>
+                  </item>
+                  <item>
+                     <hi>3. Wee undertook not to give you</hi> all <hi>our Reaſons, the</hi> Minor <hi>may be falſe upon many other Reaſons.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>And were your</hi> Major <hi>reduced in the points excep<g ref="char:EOLhyphen"/>ted againſt, wee ſhould deny the</hi> Minor <hi>as to both Members.</hi>
+            </p>
+            <p>
+               <hi>And wee ſhould add to our Reaſons,</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>1. That Command, which commandeth an Act in it ſelf lawful, and only ſuch, may yet be</hi> ſinful privative<g ref="char:EOLhyphen"/>ly,
+<pb n="6" facs="tcp:35301:6"/>
+                  <!-- PDF PAGE 24 -->
+                  <hi>by</hi> omiſsion <hi>of ſome</hi> neceſſary part, ſome Mode, <hi>or</hi> Cir<g ref="char:EOLhyphen"/>cumſtance.</item>
+               <item>
+                  <hi>2. It may</hi> ſinfully reſtrain, <hi>though it</hi> ſinfully com<g ref="char:EOLhyphen"/>mand not.</item>
+               <item>
+                  <hi>3. It may be</hi> ſinful, in modis, <hi>commanding, that</hi> uni<g ref="char:EOLhyphen"/>verſally, <hi>or</hi> indefinitely, <hi>or</hi> particularly, <hi>or</hi> ſingularly, <hi>that ſhould be otherwiſe; though in the</hi> Circumſtances <hi>(pro<g ref="char:EOLhyphen"/>perly ſo called) of the Act, nothing were command<g ref="char:EOLhyphen"/>ed that is ſinful.</hi>
+               </item>
+               <item>
+                  <hi>4. It may through culpable ignorance be applied to</hi> undue Subjects, <hi>who are not</hi> Circumſtances, <hi>as if a peo<g ref="char:EOLhyphen"/>ple that have the Plague be commanded to keep Aſ<g ref="char:EOLhyphen"/>ſemblies for Worſhip; the Law-giver being culpably ignorant that they had the Plague. Many more Rea<g ref="char:EOLhyphen"/>ſons may be given.</hi>
+               </item>
+            </list>
+            <p>
+               <label>Op.</label> Wee make good our <hi>Major,</hi> by ſhewing that the Subject is not changed: thus,</p>
+            <p>If whenſoever the firſt Act is commanded <hi>ſub poenâ in<g ref="char:EOLhyphen"/>juſtâ,</hi> and no other Act is commanded, whereby any un<g ref="char:EOLhyphen"/>juſt penalty is injoyned (which were your words) the firſt Act commanding, muſt command an unjuſt puniſhment (which were ours) then wee have not changed the Sub<g ref="char:EOLhyphen"/>ject.</p>
+            <p>But the Antecedent is true, therefore the conſequent.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35301:6"/>
+            <!-- PDF PAGE 24 -->
+         </div>
+      </body>
+   </text>
+</TEI>
